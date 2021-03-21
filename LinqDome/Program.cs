@@ -91,6 +91,7 @@ namespace LinqDome
                 DefaultIfEmptyOperator.Dome1();
                 DefaultIfEmptyOperator.Dome2();
             }
+            System.Console.WriteLine();
             //Console.ReadKey();
         }
         static void Dome8_1()
