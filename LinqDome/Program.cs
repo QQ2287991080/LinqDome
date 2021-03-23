@@ -88,11 +88,31 @@ namespace LinqDome
             //DefaultIfEmptyOperator
             {
 
-                DefaultIfEmptyOperator.Dome1();
-                DefaultIfEmptyOperator.Dome2();
+                //DefaultIfEmptyOperator.Dome1();
+                //DefaultIfEmptyOperator.Dome2();
+            }
+            //FirstOperator
+            {
+            //    FirstOperator.Dome1();
+            //    FirstOperator.Dome2();
+            //    FirstOperator.Dome1Err();
+            }
+            //LastOperator
+            {
+                //LastOperator.Dome1();
+            }
+            //SingleOperator
+            {
+                //SingleOperator.Dome1();
+                //SingleOperator.Dome2();
+            }
+            //ElementAtOperator
+            {
+                ElementAtOperator.Dome1();
+                ElementAtOperator.Dome2();
             }
             System.Console.WriteLine();
-            //Console.ReadKey();
+            Console.ReadKey();
         }
         static void Dome8_1()
         {
